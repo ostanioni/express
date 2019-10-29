@@ -1,0 +1,23 @@
+{
+  "name": "express",
+  "version": "0.0.1",
+  "description": "first express app",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ostanioni/express.git"
+  },
+  "keywords": [
+    "express",
+    "node"
+  ],
+  "author": "Ostanin Sergey",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ostanioni/express/issues"
+  },
+  "homepage": "https://github.com/ostanioni/express#readme"
+}
